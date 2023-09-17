@@ -6,4 +6,4 @@
 - Mail: berkocal99@gmail.com
 - Linkedin: www.linkedin.com/in/berkocall/
 
-(You want the truth? I'm here to shake the hell out of this place :) )
+HELLO THERE
