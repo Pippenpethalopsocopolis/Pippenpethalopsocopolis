@@ -1,5 +1,5 @@
 <h1 align="center">HELLO THERE</h1>
-<h3 align="center">Just a student who wants to create things</h3>
+<h3 align="center">Just someone who wants to create things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pippenpethalopsocopolis&label=Profile%20views&color=0e75b6&style=flat" alt="pippenpethalopsocopolis" /> </p>
 
