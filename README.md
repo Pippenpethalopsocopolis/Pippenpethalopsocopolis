@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pippenpethalopsocopolis&label=Profile%20views&color=0e75b6&style=flat" alt="pippenpethalopsocopolis" /> </p>
 
-- 🔭 I’m currently working on **metadj**
+- 🔭 I’m currently working on **metaDJ**
 
 - 🌱 I’m currently learning **TypeScript**
 
